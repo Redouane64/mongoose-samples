@@ -13,9 +13,16 @@
   ],
   "license": "ISC",
   "devDependencies": {
+    "@types/mergerino": "^0.4.0",
+    "@types/mongoose": "^5.10.0",
     "@types/node": "^14.0.27",
+    "@types/uuid": "^8.3.0",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.7"
   },
-  "dependencies": {}
+  "dependencies": {
+    "mergerino": "^0.4.0",
+    "mongoose": "^5.10.13",
+    "uuid": "^8.3.1"
+  }
 }
